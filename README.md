@@ -36,6 +36,12 @@ This research presents an IoT-based smart agriculture monitoring system using ES
 - 📊 Data visualization and analysis for decision-making
 - ⚡ Reduced water usage and improved efficiency
 
+## 🏆 Conference Certificate
+
+I have successfully presented my research paper at ICAMC 2025.
+
+📥 [View Certificate](docs/ICAMC_2025_Certificate.pdf)
+
 ---
 
 ## 🛠️ Technologies Used
