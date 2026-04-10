@@ -22,6 +22,14 @@ Sensor Based Smart Agriculture Monitoring System Using Web & IoT
 - 🌐 **Read Online:** https://proceedings.aijr.org/index.php/ap/article/view/72  
 - 📥 **Download PDF:** [Click Here](docs/research-paper.pdf)
 
+
+## 🏆 Conference Certificate
+
+I have successfully presented my research paper at ICAMC 2025.
+
+📥 [View Certificate](docs/ICAMC_2025_Certificate.pdf)
+
+
 ---
 
 ## 📌 Abstract
@@ -36,11 +44,6 @@ This research presents an IoT-based smart agriculture monitoring system using ES
 - 📊 Data visualization and analysis for decision-making
 - ⚡ Reduced water usage and improved efficiency
 
-## 🏆 Conference Certificate
-
-I have successfully presented my research paper at ICAMC 2025.
-
-📥 [View Certificate](docs/ICAMC_2025_Certificate.pdf)
 
 ---
 
